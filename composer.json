@@ -1,5 +1,5 @@
 {
-    "name": "xqkeji/xq-com-tab-form",
+    "name": "xqkeji/xq-res-tab-form",
     "description": "新齐通用后台管理页面系统的tab表单页面的js、css等前端程序的composer包。",
     "type": "library",
     "license": "Apache-2.0",
@@ -18,7 +18,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
                 }]
             }
         ],
@@ -26,13 +26,13 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
                 }]
             },
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
                 }]
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
                 }]
             }
         ]
