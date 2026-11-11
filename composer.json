@@ -18,7 +18,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"www/assets/xq-tab-form/"
                 }]
             }
         ],
@@ -26,13 +26,13 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"www/assets/xq-tab-form/"
                 }]
             },
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"www/assets/xq-tab-form/"
                 }]
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-tab-form/src/":"resource/xq-tab-form/"
+                    "vendor/xqkeji/xq-res-tab-form/src/":"www/assets/xq-tab-form/"
                 }]
             }
         ]
