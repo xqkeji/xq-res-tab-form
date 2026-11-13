@@ -2,7 +2,7 @@
     "name": "xqkeji/xq-res-tab-form",
     "description": "新齐通用后台管理页面系统的tab表单页面的js、css等前端程序的composer包。",
     "type": "library",
-    "license": "Apache-2.0",
+    "license": "AGPL-3.0-only",
     "autoload": {
         "psr-4": {
             "xqkeji\\composer\\tab-form\\": ""
